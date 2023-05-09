@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebcd6e06-2b1b-4560-bcd5-5d95f39ce85c" name="Changes" comment="" />
+    <list default="true" id="ebcd6e06-2b1b-4560-bcd5-5d95f39ce85c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Project 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/Project 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/src/main/com.tyler.project2/packageinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/src/main/java/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/src/main/java/PokemonSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/src/resources/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project 2/src/test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Week 1/Assignment1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 4/Week 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
